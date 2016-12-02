@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CustomDataGrid">
+</Property><Property Name="Solution File" Value="D:\OWN\DataGrid\CustomDataGrid.sln">
+</Property><Property Name="Date" Value="Monday, November 28, 2016">
+</Property><Property Name="Time" Value="14:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CustomDataGrid.sln" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid.sln">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGridCs.csproj" Description="Project file successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\CustomDataGridCs.csproj">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGrid.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\CustomDataGrid.cs">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGrid.Designer.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\CustomDataGrid.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\Program.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\Program.cs">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGrid.resx" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\CustomDataGrid.resx">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\Properties\Resources.resx" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDateGridCs\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGridCs.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGridCs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGridVb.vbproj" Description="Project file successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\CustomDataGridVb.vbproj">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGrid.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\CustomDataGrid.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGrid.Designer.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\CustomDataGrid.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGrid.resx" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\CustomDataGrid.resx">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\My Project\Resources.resx" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGridVb\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGridVb.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGridVb.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGridVb2003.vbproj" Description="Project file successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\CustomDataGridVb2003.vbproj">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGrid.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\CustomDataGrid.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGrid.Designer.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\CustomDataGrid.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGrid.resx" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\CustomDataGrid.resx">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\My Project\Resources.resx" Description="File successfully backed up as D:\OWN\DataGrid\Backup\CustomDataGrid\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGridVb2003.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGridVb2003.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomColumns.csproj" Description="Project file successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomColumns.csproj">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomCheckBoxColumn.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomCheckBoxColumn.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomColumnBase.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomColumnBase.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomComboBoxColumn.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomComboBoxColumn.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomDateTimePickerColumn.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomDateTimePickerColumn.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomTextBoxColumn.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomTextBoxColumn.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomUpDownColumn.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\DataGridCustomUpDownColumn.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\OWN\DataGrid\Backup\DataGridCustomColumns\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomColumns.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomColumns.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CustomDataGrid.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CustomDataGrid.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGrid.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGrid.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridCs" Source="CustomDateGridCs\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridCs" Source="CustomDateGridCs\CustomDataGridCs.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGrid.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGrid.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridVb" Source="CustomDataGridVb\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb" Source="CustomDataGridVb\CustomDataGridVb.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGrid.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGrid.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomDataGridVb2003" Source="CustomDataGrid\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomDataGridVb2003" Source="CustomDataGrid\CustomDataGridVb2003.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataGridCustomColumns" Source="DataGridCustomColumns\DataGridCustomColumns.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

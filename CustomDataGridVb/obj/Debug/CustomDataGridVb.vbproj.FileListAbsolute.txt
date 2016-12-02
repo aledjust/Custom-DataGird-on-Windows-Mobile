@@ -1,0 +1,12 @@
+D:\OWN\DataGrid\CustomDataGridVb\bin\Debug\CustomDataGridVb.exe
+D:\OWN\DataGrid\CustomDataGridVb\bin\Debug\CustomDataGridVb.pdb
+D:\OWN\DataGrid\CustomDataGridVb\bin\Debug\CustomDataGridVb.xml
+D:\OWN\DataGrid\CustomDataGridVb\bin\Debug\DataGridCustomColumns.dll
+D:\OWN\DataGrid\CustomDataGridVb\bin\Debug\DataGridCustomColumns.pdb
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\ResolveAssemblyReference.cache
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\CustomDataGridVb.CustomDataGrid.resources
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\CustomDataGridVb.Resources.resources
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\CustomDataGridVb.vbproj.GenerateResource.Cache
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\CustomDataGridVb.exe
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\CustomDataGridVb.xml
+D:\OWN\DataGrid\CustomDataGridVb\obj\Debug\CustomDataGridVb.pdb

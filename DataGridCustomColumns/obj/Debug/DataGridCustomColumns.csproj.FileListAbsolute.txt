@@ -1,0 +1,5 @@
+D:\OWN\DataGrid\DataGridCustomColumns\bin\Debug\DataGridCustomColumns.dll
+D:\OWN\DataGrid\DataGridCustomColumns\bin\Debug\DataGridCustomColumns.pdb
+D:\OWN\DataGrid\DataGridCustomColumns\obj\Debug\ResolveAssemblyReference.cache
+D:\OWN\DataGrid\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.dll
+D:\OWN\DataGrid\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.pdb

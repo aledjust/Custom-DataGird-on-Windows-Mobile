@@ -1,0 +1,10 @@
+D:\OWN\DataGrid\CustomDateGridCs\bin\Debug\GridTest.exe
+D:\OWN\DataGrid\CustomDateGridCs\bin\Debug\GridTest.pdb
+D:\OWN\DataGrid\CustomDateGridCs\bin\Debug\DataGridCustomColumns.dll
+D:\OWN\DataGrid\CustomDateGridCs\bin\Debug\DataGridCustomColumns.pdb
+D:\OWN\DataGrid\CustomDateGridCs\obj\Debug\ResolveAssemblyReference.cache
+D:\OWN\DataGrid\CustomDateGridCs\obj\Debug\CustomDataGridCs.CustomDataGrid.resources
+D:\OWN\DataGrid\CustomDateGridCs\obj\Debug\CustomDataGridCs.Properties.Resources.resources
+D:\OWN\DataGrid\CustomDateGridCs\obj\Debug\CustomDataGridCs.csproj.GenerateResource.Cache
+D:\OWN\DataGrid\CustomDateGridCs\obj\Debug\GridTest.exe
+D:\OWN\DataGrid\CustomDateGridCs\obj\Debug\GridTest.pdb
